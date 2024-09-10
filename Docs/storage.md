@@ -58,3 +58,8 @@
 * FSx for NetApp ONTAP 
 * FSx for OpenZFS 
 
+
+
+### Storage Gateway
+
+* to connect on-prem to S3

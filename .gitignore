@@ -1,0 +1,11 @@
+
+
+## Excel type files
+*xls*
+
+## Terra files
+Terra/terraform.tfstate
+Terra/.terraform
+Terra/.terraform.lock.hcl
+
+

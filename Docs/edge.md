@@ -134,6 +134,16 @@
     * AWS Storage Gateway volumes
     * Amazon Simple Storage Service (Amazon S3) buckets
     * VMware workloads on premises and in VMware CloudTM on AWS
+* Features:
+  * centralized service
+  * based on backup policy, called backup plan
+  * automate using schedules
+  * backup retention policies
+  * incremental to save costs
+  * cross region
+  * cross account
+  * secure and compliant
+
 
 ### Snapshots
 
@@ -148,4 +158,7 @@
 ### CloudEndure Disaster Recovery 
 
 * cost-effective disaster recovery option for your on-premises servers and applications
-* continuously replicates your machines into a low-cost staging area in your target AWS account and preferred Region
+* **continuously** replicates your machines into a **low-cost staging area** in your target AWS account and preferred Region
+* in event of DR or drill, it automatically does machine conversion and orchestration, making RTO in minutes
+* non disruptive DR testing
+
